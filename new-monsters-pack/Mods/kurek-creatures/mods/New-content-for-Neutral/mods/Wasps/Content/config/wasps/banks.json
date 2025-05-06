@@ -29,7 +29,7 @@
                     "visit": ["waspsounds/honeypalacevisit"]
                 },
                 "rmg": {
-                    "value": 40000,
+                    "value": 90000,
                     "rarity": 100,
                     "zoneLimit": 1
                 },
