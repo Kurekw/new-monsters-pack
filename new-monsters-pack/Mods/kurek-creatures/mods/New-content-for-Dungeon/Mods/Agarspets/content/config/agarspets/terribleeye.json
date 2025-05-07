@@ -4,7 +4,7 @@
             "plural": "Terrible Eyes",
             "singular": "Terrible Eye"
         },
-         "description": "{#ff0000|Terrible Eye}  \n\nTerrible Eyes are the most powerful and terrifying beholders of the twisted warlock Agar. These massive, two-meter floating aberrations resemble grotesque brain-head with horns, a gaping maw, and a single, glowing magical eye of terror.  \n\n{gold|Special Abilities: Ranged magic beam attack. Flight. Casts randomly spells after attack. Unlimited shots. Free attack-they can shoot even if they are surrounded. Short attack range (7).}  \n\nUnlike lesser beholders, Terrible Eyes unleash devastating spells upon attacking. Their magic beam may inflict {#40bfff|Charm, Fear,} {#00aaff|Berserk, Fireball, or Dispel Magic}, making them unpredictable and deadly foes. They dwell in the deepest underground caverns, waiting for their next victim.",
+         "description": "{#ff0000|Terrible Eye}  \n\nTerrible Eyes are the most powerful and terrifying beholders of the twisted warlock Agar. These massive, two-meter floating aberrations resemble grotesque brain-head with horns, a gaping maw, and a single, glowing magical eye of terror.  \n\n{gold|Special Abilities: Ranged magic beam attack. Flight. Casts randomly spells after attack. Unlimited shots. Free attack-they can shoot even if they are surrounded. Short attack range (9).}  \n\nUnlike lesser beholders, Terrible Eyes unleash devastating spells upon attacking. Their magic beam may inflict {#40bfff|Charm, Fear,} {#00aaff|Berserk, Fireball, or Dispel Magic}, making them unpredictable and deadly foes. They dwell in the deepest underground caverns, waiting for their next victim.",
 		"advMapAmount": {
             "max": 15,
             "min": 7
@@ -240,8 +240,8 @@
 			"limitedRange" : 
 			{
 				"type" : "LIMITED_SHOOTING_RANGE",
-				"val" : 7,
-				"addInfo" : 3
+				"val" : 9,
+				"addInfo" : 7
 			},
 			"powerAttack" : 
 			{
